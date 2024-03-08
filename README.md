@@ -10,25 +10,25 @@
 - ✅ Dogecoin
 - ✅ TRC20
 
-⭐️ Notification :
-✅ Telegram
-✅ Discord
+## ⭐️ Notification :
+- ✅ Telegram
+- ✅ Discord
 
-⭐️ Options :
-✅ AntiAnalysis
-✅ DeleteRestore
-✅ WDExclusion
+## ⭐️ Options :
+- ✅ AntiAnalysis
+- ✅ DeleteRestore
+- ✅ WDExclusion
 
-✅ | Schtasks - Startup - Registry | [Change Path]
+## ✅ | Schtasks - Startup - Registry | [Change Path]
 
-✅ Sleep
-✅ Obfuscator
-✅ Icon
-✅ Assembly
+- ✅ Sleep
+- ✅ Obfuscator
+- ✅ Icon
+- ✅ Assembly
 
-⚙️ Requirements :
+## ⚙️ Requirements :
 
-🔸 .Net Framework 4.5 [Builder]
-🔸 .Net Framework 4.0 [Payload]
+- 🔸 .Net Framework 4.5 [Builder]
+- 🔸 .Net Framework 4.0 [Payload]
 
-🥇 Best Software Quality Ever
+## 🥇 Best Software Quality Ever
