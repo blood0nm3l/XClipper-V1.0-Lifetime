@@ -1,6 +1,10 @@
 
 ## XClipper V1.0
 
+![image](https://github.com/blood0nm3l/XClipper-V1.0-Lifetime/assets/162682006/177e2b50-3036-4218-9455-5d60da2a6a7c)
+
+
+
 ## ⭐️ Wallets :
 - ✅ Bitcoin
 - ✅ Litecoin
